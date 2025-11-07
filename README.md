@@ -13,3 +13,20 @@ What Was Done
 Implemented the MixColumns transformation using manual GF(2^8) multiplications for 2 and 3.
 Simplified from a general multiplication function to direct bitwise operations for performance.
 Tested with a sample AES state matrix.
+
+Steps to Run the Code
+
+
+Copy the Code:
+Save the following code into a file named mix_columns.py
+Open a Terminal or Command Prompt:
+On Windows: Search for "cmd" or "PowerShell".
+On macOS/Linux: Open the Terminal app.
+
+
+Navigate to the File Directory:
+Use the cd command to change to the folder where you saved mix_columns.py.
+
+Run the Script:
+Execute the code with:
+textpython mix_columns.py
